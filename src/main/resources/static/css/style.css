@@ -1,0 +1,14 @@
+.btn-color{
+color:#000;
+border-color: #000;
+}
+.ajitesh{
+background-image: url("/images/bg.jpg");
+height:100%;
+ background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav{
+background-color: #d57632
+}
